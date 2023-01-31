@@ -1,4 +1,4 @@
-# MedCompanion
+# Medicinewala
 
 ---
 ## Requirements
@@ -24,10 +24,10 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 If the installation was successful, you should be able to run the following command.
 
     $ node --version
-    v8.11.3
+  
 
     $ npm --version
-    6.1.0
+  
 
 If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
 
@@ -39,9 +39,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm start
     
-### Project URL link : https://med-comp.herokuapp.com
+### Project URL link : will give after hosting
     
     
-### SRS document + ER diagram + DFD + Use Case diagram link : https://drive.google.com/drive/folders/1y7yqPdL7S5N13r7-HTusNkfccDdk6XdT?usp=sharing
+### SRS document + ER diagram + DFD + Use Case diagram link : will share my drive link hare later
 
-### Test Report link : https://drive.google.com/drive/folders/1y7yqPdL7S5N13r7-HTusNkfccDdk6XdT?usp=sharing
